@@ -1,2 +1,1 @@
-# Hey everyone :wave:
-This is organization of [Tweetcord Discord Bot](https://top.gg/bot/677951102913740801)
+This is organization of [Tweetcord Discord Bot](https://web.archive.org/web/20220924023908/https://top.gg/bot/677951102913740801)
